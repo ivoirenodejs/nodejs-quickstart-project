@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-quickstart-project",
+  "version": "1.0.0",
+  "description": "Nodejs quickstart project",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivoirenodejs/nodejs-quickstart-project.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "es6",
+    "javascript",
+    "babel"
+  ],
+  "author": "Marius Koudou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivoirenodejs/nodejs-quickstart-project/issues"
+  },
+  "homepage": "https://github.com/ivoirenodejs/nodejs-quickstart-project#readme"
+}
